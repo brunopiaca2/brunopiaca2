@@ -1,16 +1,24 @@
-## Hi there 👋
+# Bem-vindo ao Perfil de Bruno Vieira!
 
-<!--
-**brunopiaca2/brunopiaca2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Bruno, co-fundador e Diretor de Tecnologia na [Nome da Empresa de Software Kinlab Minha paixão é impulsionar inovações que transformam o mercado de tecnologia, focando sempre em criar soluções que maximizem o valor para nossos clientes.
 
-Here are some ideas to get you started:
+## 🌟 Quem Sou Eu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Co-fundador de @control.cs, @nuvemfone, @tistan.me, @3vtel, @riquezaemfamilia e @kinlab, onde lidero a criação de soluções inovadoras para problemas complexos do mercado.
+- 🚀 Especialista em transformação digital e desenvolvimento de produtos que atendem às necessidades específicas do cliente.
+- 🌍 Atuando em todo o mundo
+
+## 💡 Habilidades Chave
+
+- **Desenvolvimento de Software:** Especialista em criar produtos robustos utilizando PHP, Fluter, Python, JavaScript, C#, entre outros.
+- **Estratégia de Negócios:** Experiência em identificar oportunidades de mercado e transformá-las em produtos rentáveis.
+- **Liderança:** Conduzindo equipes para o sucesso, com um foco claro em inovação e excelência operacional.
+
+## 📫 Como Me Encontrar
+
+- 📧 Email: [bruno@kinlab.com.br](mailto:bruno@kinlab.com.br)
+
+---
+
+👥 Estou sempre à procura de oportunidades para colaborar em projetos que buscam fazer a diferença no mercado. Se você precisa de um parceiro que entenda profundamente a tecnologia e o negócio, fale comigo!
+
