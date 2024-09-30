@@ -1,6 +1,6 @@
 # Bem-vindo ao Perfil de Bruno Vieira!
 
-Sou Bruno, co-fundador e Diretor de Tecnologia na [Nome da Empresa de Software Kinlab Minha paixão é impulsionar inovações que transformam o mercado de tecnologia, focando sempre em criar soluções que maximizem o valor para nossos clientes.
+Sou Bruno, co-fundador e Diretor de Tecnologia na Kinlab Minha paixão é impulsionar inovações que transformam o mercado de tecnologia, focando sempre em criar soluções que maximizem o valor para nossos clientes.
 
 ## 🌟 Quem Sou Eu
 
