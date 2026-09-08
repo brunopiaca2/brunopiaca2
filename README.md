@@ -4,7 +4,7 @@ Sou Bruno, co-fundador e Diretor de Tecnologia na Kinlab Minha paixão é impuls
 
 ## 🌟 Quem Sou Eu
 
-- 💼 Co-fundador de @control.cs, @nuvemfone, @tistan.me, @3vtel, @riquezaemfamilia e @kinlab, onde lidero a criação de soluções inovadoras para problemas complexos do mercado.
+- 💼 Co-fundador de @control.cs, @nuvemfone, @tistan.me, @3vtel, @riquezaemfamilia, @kinlab e @usflow, onde lidero a criação de soluções inovadoras para problemas complexos do mercado.
 - 🚀 Especialista em transformação digital e desenvolvimento de produtos que atendem às necessidades específicas do cliente.
 - 🌍 Atuando em todo o mundo
 
